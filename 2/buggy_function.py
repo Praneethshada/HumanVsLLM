@@ -32,7 +32,8 @@ def min_cost(cost: List[List[int]], m: int, n: int) -> int:
             tc[i][j] = min(
                 tc[i - 1][j],      # from above
                 tc[i][j - 1],      # from left
-                tc[i - 1][j - 1]   # from diagonal
+                tc[i - 1][j]   # from diagonal this is the bug
             ) + cost[i][j]
 
     return tc[m][n]
+
