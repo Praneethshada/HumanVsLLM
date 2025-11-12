@@ -1,0 +1,4 @@
+# file: /home/rajkjain/Downloads/HumansVsLLMs_Rebuilt_Final/chinese_zodiac/chinese_zodiac.py
+# hypothesis_version: 6.147.0
+
+[2000, 'Dog', 'Dragon', 'Hare', 'Horse', 'Monkey', 'Ox', 'Pig', 'Rat', 'Rooster', 'Snake', 'Tiger', 'sheep']
