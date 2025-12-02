@@ -54,7 +54,7 @@ Results:
 
 - And the test results are in `bug_test.ipynb` file.
 
-- All the test functions have Passed. LLM Not Found ❌ the bug.
+- All the test functions have Passed. LLM Not Found the bug.
 
 # Human Testing & Results:
 
@@ -67,8 +67,8 @@ Results:
 Results:
 
 - Out of these 3 Properties, One failed.
-- Human found ✅ the bug.
+- Human found the bug.
 
 # Final Result:
 
-- Only Human Found the bug.
+## Only Human Found the bug.

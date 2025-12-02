@@ -38,7 +38,7 @@ Results:
 
 - And the test results are in `bug_test.ipynb` file.
 
-- LLM Found ✅ the Bug in one test case where the '0' is included in the example.
+- LLM Found the Bug in one test case where the '0' is included in the example.
 
 # Human Testing & Results:
 
@@ -53,8 +53,8 @@ Results:
 
 Results:
 
-- Human Found ✅ the Bug.
+- Human Found the Bug.
 
 # Final Result:
 
-- Both LLM and Human Found the bug.
+## Both LLM and Human Found the bug.

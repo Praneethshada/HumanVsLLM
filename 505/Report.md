@@ -46,7 +46,7 @@ Results:
 
 - And the test results are in `bug_test.ipynb` file.
 
-- Out of 9, 3 test cases are failed. LLM Found ✅ the bug.
+- Out of 9, 3 test cases are failed. LLM Found the bug.
 
 # Human Testing & Results:
 
@@ -62,8 +62,8 @@ Results:
 
 Results:
 
-- Human not found ❌ the bug.
+- Human not found the bug.
 
 # Final Result:
 
-- Only LLM Found the bug.
+## Only LLM Found the bug.
