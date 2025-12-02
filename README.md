@@ -1,6 +1,6 @@
 
 
-### **Project 3: The Testing Showdown - Humans vs. LLMs in Bug Detection**
+### **Project : The Testing Showdown - Humans vs. LLMs in Bug Detection**
 
 **1. Context & Motivation:**
 At the **Software Engineering Research Centre (SERC), IIIT Hyderabad**, we need to choose the best strategy for testing critical code. Should we task an LLM to write tests, or should a human engineer do it? This project is a hands-on experiment to answer that question. Your team will first create a set of challenging, buggy functions. Your job is not to fix the bugs, but to determine **how best to find them.**
